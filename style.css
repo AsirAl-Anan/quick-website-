@@ -69,7 +69,7 @@ nav{
 }
 .card .box{
     width: 23%;
-   
+   font-size:12px;
     border-radius: 10px ;
     margin:0 15px 0 15px;
     height: 500px;
